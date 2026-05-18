@@ -3,10 +3,11 @@ RENCANA KONTENT BARU
 - JAVASCRIPT
   - ES6
   - FRAMEWORK JAVASCRIPT
-    - angular
+    - vue
     - react
 - struktur data dasar
 - PHP FRAMEWORKS
   - laravel
 - INTERVIEW
 - VLOGS
+-python

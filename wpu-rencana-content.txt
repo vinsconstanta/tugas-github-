@@ -4,6 +4,7 @@ RENCANA KONTENT BARU
   - ES6
   - FRAMEWORK JAVASCRIPT
     - vue
+    - react
 - struktur data dasar
 - PHP FRAMEWORKS
   - laravel

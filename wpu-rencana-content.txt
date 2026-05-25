@@ -8,6 +8,7 @@ RENCANA KONTENT BARU
 - struktur data dasar
 - PHP FRAMEWORKS
   - laravel
+- py
 - INTERVIEW
 - VLOGS
 -python
